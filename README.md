@@ -46,4 +46,4 @@ Melalui tugas ini, saya dapat memahami:
 
 ## Link Video Penjelasan
 
-Tambahkan link video penjelasan di sini.
+(https://drive.google.com/drive/folders/1szn92myMDw8WoJogrUgsP3E7UTTvWcKt?usp=drive_link)
