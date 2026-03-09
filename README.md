@@ -1,48 +1,49 @@
-Tugas Pertemuan 5
-Method di Java
+# Tugas Pertemuan 5  
+## Method di Java  
+Mata Kuliah: Pemrograman Berbasis Objek  
 
-Mata Kuliah: Pemrograman Berbasis Objek
+Nama  : Aisyah  
+NIM   : 2400792  
 
-Nama : Aisyah
-NIM : 2400792
+---
 
-Deskripsi
+## Deskripsi
 
-Tugas ini merupakan implementasi materi Method dalam Java yang meliputi penggunaan method prosedur (void), method fungsi (return), serta parameter method.
-Project terdiri dari 3 class sesuai soal untuk NIM Genap.
+Tugas ini merupakan implementasi materi **Method dalam Java** pada mata kuliah Pemrograman Berbasis Objek.  
+Pada tugas ini dipraktikkan penggunaan **method prosedur (`void`)**, **method fungsi (`return`)**, serta **parameter pada method** untuk menyelesaikan beberapa permasalahan pemrograman.
 
-Struktur Program
+Project ini terdiri dari **3 class program sesuai soal untuk NIM Genap**.
 
-Soal1Genap.java
-Menggunakan method prosedur dan perulangan for untuk menampilkan teks
-"Saya senang belajar bahasa Java" sebanyak N kali sesuai input pengguna.
+---
 
-Soal2Genap.java
-Menggunakan method fungsi dan method prosedur dengan perulangan for dan kondisi if untuk:
+## Struktur Program
 
-Menampilkan bilangan genap dalam rentang batasAwal sampai batasAkhir
+**Soal1Genap.java**  
+Program menggunakan **method prosedur (`void`)** dan perulangan `for` untuk menampilkan teks **"Saya senang belajar bahasa Java"** sebanyak **N kali** sesuai dengan input yang diberikan oleh pengguna.
 
-Menampilkan deret bilangan genap
+**Soal2Genap.java**  
+Program menggunakan **method fungsi dan method prosedur** dengan bantuan perulangan `for` serta kondisi `if` untuk:
+- Menampilkan bilangan genap dalam rentang **batasAwal sampai batasAkhir**
+- Menampilkan deret bilangan genap
+- Menghitung **jumlah deret bilangan genap**
 
-Menghitung jumlah deret bilangan genap
+**Soal3Genap.java**  
+Program menggunakan **method fungsi (`return`)** dengan perulangan `while` serta **algoritma Euclidean (modulus)** untuk menghitung **Pembagi Bersama Terbesar (PBB)** dari dua bilangan yang diinput oleh pengguna.
 
-Soal3Genap.java
-Menggunakan method fungsi dengan perulangan while dan algoritma Euclidean (modulus) untuk menghitung Pembagi Bersama Terbesar (PBB) dari dua bilangan.
+---
 
-Kesimpulan
+## Kesimpulan
 
-Melalui tugas ini, saya memahami:
+Melalui tugas ini, saya dapat memahami:
 
-Penggunaan method dalam Java
+- Konsep **method dalam bahasa pemrograman Java**
+- Perbedaan antara **method prosedur (`void`) dan method fungsi (`return`)**
+- Cara menggunakan **parameter pada method**
+- Cara **memanggil method dari main method**
+- Penerapan **algoritma perhitungan menggunakan method**
 
-Perbedaan method prosedur dan method fungsi
+---
 
-Penggunaan parameter pada method
+## Link Video Penjelasan
 
-Pemanggilan method dari main method
-
-Penerapan algoritma perhitungan menggunakan method
-
-Link Video Penjelasan
-
-[Tambahkan link video penjelasan di sini]
+Tambahkan link video penjelasan di sini.
